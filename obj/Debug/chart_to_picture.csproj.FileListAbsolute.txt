@@ -1,0 +1,8 @@
+C:\Users\etanik\source\repos\chart_to_picture\bin\Debug\chart_to_picture.exe.config
+C:\Users\etanik\source\repos\chart_to_picture\bin\Debug\chart_to_picture.exe
+C:\Users\etanik\source\repos\chart_to_picture\bin\Debug\chart_to_picture.pdb
+C:\Users\etanik\source\repos\chart_to_picture\obj\Debug\chart_to_picture.csprojAssemblyReference.cache
+C:\Users\etanik\source\repos\chart_to_picture\obj\Debug\chart_to_picture.csproj.ResolveComReference.cache
+C:\Users\etanik\source\repos\chart_to_picture\obj\Debug\chart_to_picture.csproj.CoreCompileInputs.cache
+C:\Users\etanik\source\repos\chart_to_picture\obj\Debug\chart_to_picture.exe
+C:\Users\etanik\source\repos\chart_to_picture\obj\Debug\chart_to_picture.pdb
